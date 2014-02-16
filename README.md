@@ -23,5 +23,5 @@ $> mc myproject bootstrap-3 accounts-admin-ui-bootstrap-3 roles
 ```
 will create a project name myproject and install those 3 packages.
 
-**Note: this script was quickly thrown together and still needs some work**
+**Note: this script was quickly thrown together and still needs some work.**
 **Please feel free to submit a pull request**
